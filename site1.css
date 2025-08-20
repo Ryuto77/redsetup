@@ -1,0 +1,131 @@
+
+body{
+background-color: #FFFFFF;
+margin: 0px;
+}
+#main {
+    text-align: center;
+    color: white;
+    background-color: #F44336;
+    padding-top: 150px;
+    height: 400px;
+    width: 100%;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    font-size: xx-large;
+}
+
+#b1 {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: large;
+    text-align: center;
+}
+
+* { 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#a1 {
+    text-align: left;
+    display: inline-block;
+    color: black;
+    padding: 50px;
+    margin-top: 30px;
+    width: 40%;
+    margin-left: 20%;
+    margin-bottom: 50px;
+    height: 400px;
+}
+
+#a2 {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 65%;
+    margin-top: -450px;
+}
+
+.g1 {
+    background-color: #F1F1F1;
+    margin-top: 0px;
+    height: 500px;
+}
+
+#a3 {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    margin-left: 20%;
+    top: 750px;
+}
+
+#a4 {
+    text-align: left;
+    display: inline-block;
+    color: black;
+    margin-top: 0px;
+    margin-left: 40%;
+    width:40%;
+    padding: 50px;
+    height: 400px;
+}
+#a5 {
+    text-align: center;
+    background-color: #656565;
+    color: black;
+    margin-top: 0px;
+    font-weight: bold;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: x-large;
+    height: 30px;
+}
+.icons {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: larger;
+    text-align: center;
+    margin-top: 20px;
+}
+#a6{
+    text-align: center;
+    color: black;
+    font-size: large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    width: 100%;
+}
+#nav {
+  display: flex;
+  background-color: #F44336;
+  position: sticky;
+  margin-top: -100px;
+  z-index: 100;
+  top: 0;
+  width: 100%;
+}
+
+.i {
+  padding: 20px;
+  color: white;
+  font-size: 16px;
+}
+
+.i2 {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  padding: 20px;
+  font-size: 16px;
+}
+.i:hover{
+    background-color: #F1F1F1;
+    color: black;
+}
